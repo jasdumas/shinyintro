@@ -1,0 +1,10 @@
+Package: shinyintro
+Title: An htmlwidget for the Intro.js library
+Version: 0.0.0.9000
+Authors@R: person("Jasmine", "Dumas", email = "jasmine.dumas@gmail.com", role = c("aut", "cre"))
+Description: Better introductions for websites and features with a step-by-step
+             guide for your projects. Intro.js is developed by Afshin
+             Mehrabani.
+Depends: R (>= 3.2.0)
+License: What license is it under?
+LazyData: true

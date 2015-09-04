@@ -1,0 +1,9 @@
+# (uncomment to add a dependency)
+dependencies:
+  - name: shinyintro
+    version: 1.1.0
+    src: htmlwidget/lib/intro.js-1.1.0
+    script:
+      - intro.js
+    stylesheet:
+      - introjs.css
